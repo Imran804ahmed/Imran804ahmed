@@ -192,6 +192,52 @@ A production-grade SaaS-style educational management system.
 
 ---
 
+---
+
+## 🌐 Live Websites
+
+### 🚘 Shaheen Automotive
+A live automotive website designed and developed for a modern online presence.
+
+🔗 **Live:** https://shaheenautomotive.com.pk/
+
+---
+
+### 🤝 Fikr-e-Akhirat Welfare Foundation
+A live welfare and community-focused website.
+
+🔗 **Live:** https://fikreakhirat.com/
+
+---
+
+### 🎓 Jamia Ali
+A live educational and institutional website connected with the Jamia Ali ecosystem.
+
+🔗 **Live:** https://jamiaali.com/
+
+---
+
+## 📱 Published Mobile Applications
+
+### 💹 Hilal Invest
+Shariah-compliant digital investment application available on Google Play.
+
+🔗 **Google Play:** https://play.google.com/store/apps/details?id=com.hilalinvest&hl=en
+
+---
+
+### 🌐 Fanoos
+Social networking and creator-brand collaboration application available on Google Play.
+
+🔗 **Google Play:** https://play.google.com/store/apps/details?id=com.fanoos.gcc&hl=en
+
+---
+
+### 💊 Scriptio / eRx Prescription
+Tele-pharmacy and prescription management application available on Google Play.
+
+🔗 **Google Play:** https://play.google.com/store/apps/details?id=com.erxprescriptionuser&hl=en
+
 ## 💼 Professional Experience
 
 ### Full Stack Web & Mobile Application Developer

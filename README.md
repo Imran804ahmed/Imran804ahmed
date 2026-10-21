@@ -129,6 +129,11 @@ A responsive automotive website focused on a modern digital presence and accessi
 
 🔗 **Live:** https://shaheenautomotive.com.pk/
 
+### 🎓 Falah Academy
+A Pakistan-based educational website showcasing academic programs from Montessori to Intermediate.
+
+🔗 **Live:** https://falahacademy.pk/
+
 ### 🤝 Fikr-e-Akhirat Welfare Foundation
 A welfare and community-focused website providing information about the foundation and its initiatives.
 

@@ -139,15 +139,15 @@ A welfare and community-focused website providing information about the foundati
 
 🔗 **Live:** https://fikreakhirat.com/
 
-### 🎓 Jamia Ali
-An educational and institutional website connected to the Jamia Ali ecosystem.
-
-🔗 **Live:** https://jamiaali.com/
-
 ### 📖 HidayatulQuran Academy
 An online Quran learning website presenting educational programs and helping prospective students explore learning opportunities.
 
 🔗 **Live:** https://www.hidayatulquran.com/
+
+### 🎓 Jamia Ali
+An educational and institutional website connected to the Jamia Ali ecosystem.
+
+🔗 **Live:** https://jamiaali.com/
 
 ---
 
